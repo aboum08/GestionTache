@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GestionTache</string>
+    <string name="txt1_text">All tascks completed</string>
+    <string name="txt2_text">Nice work!</string>
+</resources>
